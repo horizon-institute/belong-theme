@@ -7,7 +7,7 @@
  GitHub Theme URI:      https://github.com/horizon-institute/belong-theme.git
  GitHub Branch:         master
  Template:              lighthouse
- Version:               0.1.0
+ Version:               0.1.1
  License:               GNU General Public License v2 or later
  License URI:           http://www.gnu.org/licenses/gpl-2.0.html
  Text Domain:           lighthouse-child
@@ -25,5 +25,9 @@
     color: #fff !important;
     font-size: 16px !important;
     text-transform: capitalize !important;
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
     font-weight: 300 !important;
 }
